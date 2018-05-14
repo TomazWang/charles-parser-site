@@ -1,6 +1,6 @@
 # Charles Parser
 
-A simple parser that parses Chales session file (in json fromat, .chlsj file) in to readable files.
+A simple parser that parses Chales session file (in json fromat, .chlsj file) into readable files.
 
 
 ## Requirements
